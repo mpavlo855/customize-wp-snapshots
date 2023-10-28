@@ -1,0 +1,22 @@
+{
+  "name": "customize-snapshots",
+  "title": "Customize Snapshots",
+  "homepage": "https://github.com/xwp/wp-customize-snapshots",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xwp/wp-customize-snapshots.git"
+  },
+  "author": "XWP",
+  "license": "GPL-2.0+",
+  "devDependencies": {
+    "eslint": "^4.5.0",
+    "grunt": "~1.0.1",
+    "grunt-contrib-clean": "~1.1.0",
+    "grunt-contrib-copy": "~1.0.0",
+    "grunt-contrib-cssmin": "~2.2.1",
+    "grunt-contrib-jshint": "~1.1.0",
+    "grunt-contrib-uglify": "~3.0.1",
+    "grunt-shell": "~2.1.0",
+    "grunt-wp-deploy": "~1.2.1"
+  }
+}
